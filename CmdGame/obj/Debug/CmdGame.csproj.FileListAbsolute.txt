@@ -1,0 +1,12 @@
+C:\Users\Gabik\source\repos\CmdGame\obj\Debug\CmdGame.csprojAssemblyReference.cache
+C:\Users\Gabik\source\repos\CmdGame\obj\Debug\CmdGame.csproj.CoreCompileInputs.cache
+C:\Users\Gabik\source\repos\CmdGame\bin\Debug\CmdGame.exe.config
+C:\Users\Gabik\source\repos\CmdGame\bin\Debug\CmdGame.exe
+C:\Users\Gabik\source\repos\CmdGame\bin\Debug\CmdGame.pdb
+C:\Users\Gabik\source\repos\CmdGame\obj\Debug\CmdGame.exe
+C:\Users\Gabik\source\repos\CmdGame\obj\Debug\CmdGame.pdb
+C:\Users\Gabik\source\repos\CmdGame\bin\Debug\Magnum.dll
+C:\Users\Gabik\source\repos\CmdGame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gabik\source\repos\CmdGame\bin\Debug\Magnum.xml
+C:\Users\Gabik\source\repos\CmdGame\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gabik\source\repos\CmdGame\obj\Debug\CmdGame.csproj.CopyComplete
